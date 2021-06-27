@@ -1,0 +1,4 @@
+npx create-next-app --ts next-ts-tailwind
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+
+seguir indicaciones de tailwind
